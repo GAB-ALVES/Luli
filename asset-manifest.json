@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Luli/static/css/main.15b16cee.css",
-    "main.js": "/Luli/static/js/main.68488490.js",
+    "main.js": "/Luli/static/js/main.bdf30b1b.js",
     "static/media/morse.wav": "/Luli/static/media/morse.b6ef9012469dba81d2b4.wav",
     "index.html": "/Luli/index.html",
     "main.15b16cee.css.map": "/Luli/static/css/main.15b16cee.css.map",
-    "main.68488490.js.map": "/Luli/static/js/main.68488490.js.map"
+    "main.bdf30b1b.js.map": "/Luli/static/js/main.bdf30b1b.js.map"
   },
   "entrypoints": [
     "static/css/main.15b16cee.css",
-    "static/js/main.68488490.js"
+    "static/js/main.bdf30b1b.js"
   ]
 }
