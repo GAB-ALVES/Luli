@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Luli/static/css/main.15b16cee.css",
+    "main.js": "/Luli/static/js/main.68488490.js",
+    "static/media/morse.wav": "/Luli/static/media/morse.b6ef9012469dba81d2b4.wav",
+    "index.html": "/Luli/index.html",
+    "main.15b16cee.css.map": "/Luli/static/css/main.15b16cee.css.map",
+    "main.68488490.js.map": "/Luli/static/js/main.68488490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b16cee.css",
+    "static/js/main.68488490.js"
+  ]
+}
