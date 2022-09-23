@@ -13,7 +13,7 @@ TextField,
 Button
 } from '@mui/material';
 
-export default function Challenge({setAsk}) {
+export default function Challenge({setAsk, setLevel3}) {
 
     const [key, setKey] = useState('');
     const [count, setCount] = useState(1);
@@ -52,6 +52,7 @@ export default function Challenge({setAsk}) {
                   })
                 setKey('');
                 setLevelIndx(levelIndx + 1);
+                setLevel3(true);
             }
         }   
     }
